@@ -34,3 +34,4 @@ const arr_top2 = arr[arr.length-2]; //배열중 가장 큰 값
     console.log(sum);
 
 
+
