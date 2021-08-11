@@ -14,7 +14,6 @@ while(x <= 5 && y <= 5){
                 console.log("위쪽 이동 불가");            
                 break;
         }
-    }
-    R();
+}
 
 console.log(x,y);
