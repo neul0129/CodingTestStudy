@@ -1,5 +1,5 @@
-showError();
-
-function showError()=>{
-    console.log("error");
+let sayHi = function(name){
+    console.log('hello, ${name}');
 }
+
+sayHi("John");
